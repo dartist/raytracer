@@ -9,8 +9,8 @@ side-by-side with original [Ray Tracer in TypeScript](https://gist.github.com/my
 Add this to your package's pubspec.yaml file:
 
 	dependencies:
-	  sudoku: 0.1.1
-  
+	  raytracer: 0.1.2
+    
 ### Screenshot
 
 ![Dart Ray Tracer](https://f.cloud.github.com/assets/89361/641026/106774d4-d31e-11e2-8da6-d52131cde824.png)
