@@ -1,5 +1,5 @@
 name: raytracer
-version: 0.1.2
+version: 0.1.3
 author: Demis Bellot <demis.bellot@gmail.com>
 description: TypeScript's Ray Tracer ported to Dart
 homepage: https://github.com/dartist/raytracer
