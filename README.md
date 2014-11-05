@@ -9,7 +9,7 @@ side-by-side with original [Ray Tracer in TypeScript](https://gist.github.com/my
 Add this to your package's pubspec.yaml file:
 
 	dependencies:
-	  raytracer: 0.1.2
+	  raytracer: ">=0.2.0 <0.3.0"
     
 ### Screenshot
 
