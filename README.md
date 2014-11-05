@@ -1,7 +1,7 @@
 Ray Tracer in Dart
 ==================
 
-View [raytracer.dart](https://github.com/dartist/raytracer/blob/master/web/raytracer.dart)
+View [raytracer.dart](https://github.com/dartist/raytracer/blob/master/lib/raytracer.dart)
 side-by-side with original [Ray Tracer in TypeScript](https://gist.github.com/mythz/3817303).
 
 ### [Installing via Pub](http://pub.dartlang.org/packages/raytracer)
